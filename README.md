@@ -12,8 +12,8 @@
     • Long-term unemployment identifying individuals who have been jobless for an extended period.
     • Deployed as a web application using Streamlit for a better user interface.
 # Data set
-    The dataset used for this analysis is available in the Unemployment in India.csv
- File.
+    The dataset used for this analysis is available in the Unemployment in India.csv file.
+ 
     It contains information about unemployment rates, employment, labor participation,and other relevant factors for different states and regions.
 # Code
 The Unemployment Project.ipynb file contains the Jupyter Notebook code used for data analysis and visualization.
