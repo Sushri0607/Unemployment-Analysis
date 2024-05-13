@@ -17,6 +17,7 @@
     It contains information about unemployment rates, employment, labor participation,and other relevant factors for different states and regions.
 # Code
 • Unemployment Project.ipynb 
+
 This file contains the Jupyter Notebook code used for data analysis and visualization.
 # Project Structure
   The project repository has the following structure:
