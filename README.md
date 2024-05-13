@@ -11,6 +11,11 @@
     ☛ Unemployment rate measuring the proportion of the workforce without a job but actively seeking one.
     ☛ Long-term unemployment identifying individuals who have been jobless for an extended period.
     ☛ Deployed as a web application using Streamlit for a better user interface.
+# Required libraries
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 # Data set 
    ⮞ Unemployment in India.csv
     
