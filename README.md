@@ -30,7 +30,7 @@ In Unemployment analysis, data cleaning and manipulation become crucial steps to
 
 - Searching: Filtering data based on specific criteria is crucial. Pandas provides methods like .loc and .iloc for row selection by label or position. You can use these to isolate data for a particular industry, age group, or unemployment duration.
 
-- Validation: Data validation ensures the data's integrity. Techniques include checking for outliers (using boxplots or IQR calculations), identifying inconsistencies (missing values, invalid formats), and verifying data against external sources. Pandas and libraries like NumPy offer tools for these checks.
+- Validation: Data validation ensures the data's integrity. Techniques include checking for outliers, identifying inconsistencies (missing values), and verifying data against external sources. Pandas and libraries like NumPy offer tools for these checks.
 
 ## 5. Data Visualization
 Visualizations are created using Pandas gets your data organized, and Matplotlib and Seaborn work their magic to create clear visuals. Line charts show how things change over time, scatter plots reveal connections to other factors, and heatmaps depict geographic variations at a glance. These visualizations make it easy to spot patterns and trends in the unemployment data, leading to a clearer understanding of this important economic indicator.
